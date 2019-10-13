@@ -9,5 +9,6 @@ The inspiration & base code for the charts were taken from various references (a
 - 100% Stacked Bar 
 - Doughnut (since I don't like pie chart)
 - Lollipop chart to compare 2 values
+- 2-sides bar chart
 
 Next I'm planning to add Nested Pie Chart, Multiple Line Charts, Heatmap.
